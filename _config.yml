@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   The GitHub Page for the CTF team KeterCrew.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'ketercrew.github.io'
+url: 'https://ketercrew.github.io/'
 
 github:
   username: Ketercrew             # change to your github username
