@@ -7,7 +7,7 @@
   type: discord
   icon: 'fab fa-discord'
   url: 'https://discord.gg/5e3jv2hkuQ'
-  -
+-
   type: ctftime
   icon: 'fas fa-flag'
   url: 'https://ctftime.org/team/190979'
